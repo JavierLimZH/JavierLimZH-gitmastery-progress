@@ -142,5 +142,14 @@
       "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787760805.929381,
+    "completed_at": 1787760811.978821,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
